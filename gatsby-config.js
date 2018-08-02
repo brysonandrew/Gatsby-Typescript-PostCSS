@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Lion Tongue',
+    title: 'Gatsby with Typescript and Postcss',
   },
   plugins: ['gatsby-plugin-react-helmet', 'gatsby-plugin-typescript', 'gatsby-plugin-postcss'],
 }
